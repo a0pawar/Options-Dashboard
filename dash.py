@@ -5,8 +5,6 @@ import pandas as pd
 import numpy as np
 from scipy.stats import norm
 from scipy.signal import savgol_filter
-import matplotlib.pyplot as plt
-import seaborn as sns
 import datetime as dt
 import plotly.express as px
 import plotly.graph_objects as go
